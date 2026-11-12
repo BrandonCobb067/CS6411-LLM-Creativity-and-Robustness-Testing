@@ -1,0 +1,10 @@
+numpy>=1.24,<3
+pandas>=2,<3
+scikit-learn>=1.3,<2
+requests>=2.31,<3
+nltk>=3.9,<4
+httpx>=0.27,<1
+openai>=1.30,<3
+python-dotenv>=1,<2
+jupyterlab>=4,<5
+ipykernel>=6,<8
